@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Guilherme",
+    "email": "kaiquecarrenho@gmail.com",
+    "tipo": "aluno"
+  },
+  {
+    "nome": "Professor Teste",
+    "email": "felipe.alves2@aluno.cps.sp.gov.br",
+    "tipo": "institucional"
+  }
+]
